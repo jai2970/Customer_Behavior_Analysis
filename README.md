@@ -96,7 +96,3 @@ Promote high-rated and frequently purchased items in ads.
 
 ### ✔ Targeted Marketing  
 Focus on express shipping users and high-revenue age groups.
-
----
-
-## 📁 Project Structure
